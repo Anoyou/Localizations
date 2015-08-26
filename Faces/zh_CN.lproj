@@ -1,0 +1,25 @@
+"ALERT_CONTROLLER_TITLE" = "你按了所触按钮 %@. 你想要做点什么？";
+"CANCEL" = "取消";
+"CHOOSE_IMAGES" = "选择图片";
+"CHOOSE_PHOTO" = "从现有的图片中选择";
+"CONFIGURATION" = "配置";
+"CONTACT_THE_DEVELOPERS" = "与开发者联系";
+"DELETE_PHOTO" = "删除所选图片";
+"DISMISS" = "撤销";
+"ENABLE" = "启用";
+"FACES_PRO" = "拼图";
+"NO_IMAGE_CURRENTLY_SAVED" = "当前并没有图像以供保存";
+"MAKERS" = "开发团队";
+"OPACITY" = "不透明度";
+"REMOVE_BACKGROUND_TINT" = "去除图片的背景色";
+"REMOVE_CONTACT" = "删除联系人";
+"RESPRING" = "注销生效";
+"RESPRING_MESSAGE" = "每当你启用/禁用该插件或者调整了图片的不透明程度后，需要注销来使之生效.将来更新后可能就不再需要了";
+"SELECT_NEW_CONTACT" = "重新选择联系人";
+"SELECT_IMAGES_FOR_BUTTONS" = "点按此按钮以选择图片";
+"SET_BACKGROUND_TINT" = "为图片选择一种背景色";
+"SUPPORT" = "支持";
+"TAKE_OR_CHOOSE" = "你想现拍一张照片或者从相册中选择？";
+"TAKE_NEW_PHOTO" = "拍摄新的照片";
+"TAKE_PHOTO" = "拍照";
+
